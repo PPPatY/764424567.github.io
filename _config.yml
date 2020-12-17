@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Pat,一只胖胖"
 description:      ""
-url:              https://pppaty.github.io # 域名
-signoff:          "pat" # Your name
+url:              https://pppaty.github.io/ # 域名
+signoff:          "PPPatY" # Your name
 facebook_appid:   #764424567
 google_analytics: UA-101222464-1
 share:            true 
